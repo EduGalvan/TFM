@@ -1,5 +1,5 @@
 # Design and study of an open-ended questionnaire on anxiety
-Use of data augmentatin techniques with generative AI, aswell as textual analysisi of the generated data.
+Use of data augmentation techniques with generative AI, aswell as textual analysisi of the generated data.
 
 In this project for my Master´s thesis we try to create an validate an open ended response questionnarie on anxiety. Because the process of data gathering was nearly impossible we decided to use data augmentationt techniques, and in this context, for this particula problem i tried to use a LLM to create synthetic data from the originial responses to our questionnarnaire which only 15 people ended up answering.
 
